@@ -4,6 +4,3 @@
 <div align="center">
 <a href="https://music.fiveskill.me/"><img src="https://github.com/ArixAR/ArixAR/assets/62035825/a19c5ebc-f396-4cdb-bb5f-0acb3f886d9a" alt="look at the sky bunny... all of the stars have a reason"></a>
 </div>
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.5; background: url('https://github.com/ArixAR/ArixAR/assets/62035825/bf9062a9-368b-45dd-830d-3152314f1dc1'); background-size: cover; background-position: center;]{x0000}$}
